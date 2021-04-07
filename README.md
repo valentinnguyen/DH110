@@ -18,6 +18,8 @@ The table below indicates a rating scale from 1 to 3 to represent the severity o
 
 ## Heuristic Evaluation of Website #1: [Omegle](https://www.omegle.com/)
 
+O<img width="1680" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
+
 ##### Initial Evaluation
 
 Omegle is a free video chat website that allows people to socialize and connect with others. Users do not need to register or login to use the service, as it randomly and anonymously pairs users in private chat sessions. Omegle's aim is to connect people from all over, no matter where they are or who they are. Its homepage looks very outdated and has poor UI, but all the essential elements are there: social media buttons at the top righthand corner, a bar where the user can type in what their interests are, and a 'text' and 'video' option that the user can choose from. Additionally, there is a description of Omegle and what it is as well as an open terms of agreement at the bottom. 
@@ -37,13 +39,15 @@ Omegle is a free video chat website that allows people to socialize and connect 
 |9. **Help Users Recognize, Diagnose, and Recover from Errors:** Error messages that indicate a problem and suggest a solution. | None. There are no indicators that appear when the user has made a problem, and there are no suggestions for solutions. | No search bar or search for help. Lack of indicators that tell the user they are interacting with the site. | Add an FAQ/Q&A section that users can go to when they have trouble navigating the app. |
 |10. **Help & Documentation:** Provide documentation to help users understand how to complete their tasks. | None. There is no webpage that helps users understand how to navigate the interface. | There are no indications that users can go to when they need help. | Add a "Contact Us" button, a "FAQ/Q&A" section in the navigation bar, or a simple "Help" button somewhere on the homepage. |
 
-## Severity Rating
+##### Severity Rating
 1. **Cosmetic Problem(s):** help users recognize, diagnose, and recover from errors, flexbility and efficiency of use
 2. **Minor Usability Problem(s):** User control and freedom, error prevention, recognition rather than recall
 3. **Major Usability Problem(s):** aesthetic and minimalistic design, user control and freedom, match between system and real world, visibility of system status, help and documentation
 
 
 ## Heuristic Evaluation of Website #2: [AmeriCorps](https://americorps.gov/)
+
+<img width="1680" alt="AmeriCorps Homepage" src="https://user-images.githubusercontent.com/81778205/113912767-5f024080-9790-11eb-8847-2d628b19ad79.png">
 
 ##### Initial Evaluation
 
@@ -64,7 +68,7 @@ AmeriCorps is a federal agency that brings elders together to directly serving n
 |9. **Help Users Recognize, Diagnose, and Recover from Errors:** Error messages that indicate a problem and suggest a solution. | When a user does not fill out a part of the form that is required, the page will immediately mention which area of the form the user needs to fill out in red font. | On the search bar, there is no indication for advanced search filters. A user would not know if their formatting in hteir search is correct or not. | Add a dropdown menu while the user types in the search bar so that they know what they're typing is formatted correctly. |
 |10. **Help & Documentation:** Provide documentation to help users understand how to complete their tasks. | In  the nevigation bar, there is a "contact" tab clearly there for users to click on. There is also an option to look at FAQs under the "about" tab. | None. There are clear directions and opportunities for the user to look for help. | It might be better to make the FAQ more obviously visual, but it isn't the biggest issue on the website overall. |
 
-## Severity Rating
+##### Severity Rating
 1. **Cosmetic Problem(s):** Visibility of system status
 2. **Minor Usability Problem(s):** Consistency and standards, aesthetic and minimalist design
 3. **Major Usability Problem(s):** Flexbility and efficiency of use
