@@ -26,8 +26,8 @@ Omegle is a free video chat website that allows people to socialize and connect 
 
 | Heuristic & Description | Good Evaluation | Bad Evaluation | How to Improve |
 | --- | ------- | ----- | ------- |
-|1. **Visibility of System Status:** | When the user clicks inside the type box, a vertical line blinks, indicating that the user clicked in the box. | The "Text" and "Video" buttons and hyperlinks on the homepage do not change color or texture when the cursor hovers over them.  | Change the color of the clickable and hyperlinked features so that the user knows their mouse is hovering over them. |
-|2. **Match Between System + World:** | Users who are familiar with technology and are well-versed in websites no matter how developed they are will intuitively know what the hyperlinks will lead them to. | A big blue box that says, "Video is monitored. Keep it clean" has two hyperlinks below it: "Adult" and "Unmoderated Section." These words might be vague for those who are not familiar with moderated features on an app and. | Instead of saying "Adult" and "Unmoderated Section," just put one button that says "Unmoderated Section (Adults Only)." |
+|1. **Visibility of System Status:** The system gives the user immediate feedback about the way they interact with the site. | When the user clicks inside the type box, a vertical line blinks, indicating that the user clicked in the box. | The "Text" and "Video" buttons and hyperlinks on the homepage do not change color or texture when the cursor hovers over them.  | Change the color of the clickable and hyperlinked features so that the user knows their mouse is hovering over them. |
+|2. **Match Between System + World:** Design and symbols are elements that the user easily and intuitively recognizes. | Users who are familiar with technology and are well-versed in websites no matter how developed they are will intuitively know what the hyperlinks will lead them to. | A big blue box that says, "Video is monitored. Keep it clean" has two hyperlinks below it: "Adult" and "Unmoderated Section." These words might be vague for those who are not familiar with moderated features on an app and. | Instead of saying "Adult" and "Unmoderated Section," just put one button that says "Unmoderated Section (Adults Only)." |
 |3. **User Control & Freedom:** | Users have the option of choosing whether they would like to start chatting through "Text" or "Video." Also, users can type in their interests that indicate things that they want to talk about it in their conversation.| Once the user is in the chat feature, there is no button that brings the user back to the homepage. | Attach a link to the homepage on the main logo in the top lefthand corner. |
 |4. **Consistency & Standards:** | Omegle's logo and name is in a bright orange color in the top lefthand corner, allowing users to recognize that this is the homepage. | Also, Usually when the user is prepared to enter the interactive portion of a website or app, there is an "Enter" button. However, users who are not familiar with that experience will not know immediately that they have to click on the "Text" or "Video" button to use Omegle's services. | Insert a button that says "Enter" or "Start chatting!" for users to click on when they are ready to enter the site's service. |
 |5. **Recognition Rather Than Recall:** | None. | When the user types in their interests in the "Add your interests (optional)" box, there is no way the user can tell if what their typing is a valid "interest" or not. | Add a dropdown menu with suggestions for their interests, or display buttons highlighting popular and select interests that users have made in the past. |
@@ -43,16 +43,18 @@ Omegle is a free video chat website that allows people to socialize and connect 
 3. **Major Usability Problem(s):**
 
 
-## Heuristic Evaluation of Website #2:
+## Heuristic Evaluation of Website #2: [AmeriCorps](https://americorps.gov/)
 
 ##### Initial Evaluation
+
+AmeriCorps is a federal agency that brings elders together to directly serving nonprofit organizations. Its mission is to strengthen communities and foster civic engagement through service and volunteering. It is mostly a site where seniors ages 55 and older can deliver acts of services such as collaborating with schools, responding to environmental disasters, combating housing and food insecurity, and more. At first glance, the homepage is clear and states program's mission straight away. The navigation bar is clearly at the top for easy access, and the overall site design has a distinct color scheme accompanied with enticing photos.
 
 ##### Heuristic Evaluation
 
 | Heuristic & Description | Good Evaluation | Bad Evaluation | What to Improve |
 | --- | ------- | ----- | ------- |
-|1. **Visibility of System Status:** | ------- | ------- | ------- |
-|2. **Match Between System + World:** | ------- | ------- | ------- |
+|1. **Visibility of System Status:** The system gives the user immediate feedback about the way they interact with the site. | When the cursor hovers over buttons, the buttons change color and indicates when the user is about to click on the buttons. Titles in the navigation bar are underlined when the cursor hovers over them. | None. | Make the buttons throughout the pages in the website consistent in design whenever the user's cursor hovers over them. For example, have all buttons change into the same color when hovered over. |
+|2. **Match Between System + World:** Design and symbols are elements that the user easily and intuitively recognizes. | The icon in the top righthand corner of the magnifying glass leads the user to a search bar. | In the navigation bar, more links appear in a dropdown menu under the "Partner" tab with titles and acronyms that users may not know immediately. | Spell out the acronyms so that the users won't have to guess what they mean. |
 |3. **User Control & Freedom:** | ------- | ------- | ------- |
 |4. **Consistency & Standards:** | ------- | ------- | ------- |
 |5. **Recognition Rather Than Recall:** | ------- | ------- | ------- |
