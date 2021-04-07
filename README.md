@@ -44,6 +44,8 @@ Omegle is a free video chat website that allows people to socialize and connect 
 2. **Minor Usability Problem(s):** User control and freedom, error prevention, recognition rather than recall
 3. **Major Usability Problem(s):** aesthetic and minimalistic design, user control and freedom, match between system and real world, visibility of system status, help and documentation
 
+##### Overall Evaluation
+Overall, Omegle has a lot of major usability issues that can leave any user, whether they are well-versed in technology or are new to technology, confused and unattracted to the site. Omegle's service has a lot of potential and many people know about it, but the website development itself could be improved so that it is more modern.
 
 ## Heuristic Evaluation of Website #2: [AmeriCorps](https://americorps.gov/)
 
@@ -72,3 +74,6 @@ AmeriCorps is a federal agency that brings elders together to directly serving n
 1. **Cosmetic Problem(s):** Visibility of system status
 2. **Minor Usability Problem(s):** Consistency and standards, aesthetic and minimalist design
 3. **Major Usability Problem(s):** Flexbility and efficiency of use
+
+##### Overall Evaluation
+Overall, the AmeriCorps website is an aesthetic and ethically user-friendly website with easy navigation. There are only minor elements (such as the profile registration page) that needs to be more consistent with the rest of the website in general, but the majority of the site is accessible for anyone no matter what their level of technological ability is.
