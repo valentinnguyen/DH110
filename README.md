@@ -1,5 +1,7 @@
-# DH110 Assignment 1: Heuristic Evaluation
-## Valentin Nguyen | Spring 2021
+
+
+## DH110 Assignment 1: Heuristic Evaluation
+#### Valentin Nguyen | Spring 2021
 
 ## Project description:
 
@@ -19,50 +21,45 @@ The table below indicates a rating scale from 1 to 3 to represent the severity o
 
 ##### Heuristic Evaluation
 
-| Heuristic & Description | Website Heuristic Evaluation | What to Improve |
-| ------- | ------- | ------- |
-|1. **Visibility of System Status:** | **Good:**  **Bad:** | ------- |
-|2. **Match Between System + World:** | **Good:**  **Bad:** | ------- |
-|3. **User Control & Freedom:** | **Good:**  **Bad:** | ------- |
-|4. **Consistency & Standards:** | **Good:**  **Bad:** | ------- |
-|5. **Recognition Rather Than Recall:** | **Good:**  **Bad:** | ------- |
-|6. **Error Prevention:** | **Good:**  **Bad:** | ------- |
-|7. **Flexbility and Efficiency of Use:** | **Good:**  **Bad:** | ------- |
-|8. **Aesthetic & Minimalistic Design:** | **Good:**  **Bad:** | ------- |
-|9. **Help Users Recognize, Diagnose, and Recover from Errors:** | **Good:**  **Bad:** | ------- |
-|10. **Help & Documentation:** | **Good:**  **Bad:** | ------- |
+| Heuristic & Description | Good Evaluation | Bad Evaluation | What to Improve |
+| --- | ------- | ----- | ------- |
+|1. **Visibility of System Status:** | ------- | ------- | ------- |
+|2. **Match Between System + World:** | ------- | ------- | ------- |
+|3. **User Control & Freedom:** | ------- | ------- | ------- |
+|4. **Consistency & Standards:** | ------- | ------- | ------- |
+|5. **Recognition Rather Than Recall:** | ------- | ------- | ------- |
+|6. **Error Prevention:** | ------- | ------- | ------- |
+|7. **Flexbility and Efficiency of Use:** | ------- | ------- | ------- |
+|8. **Aesthetic & Minimalistic Design:** | ------- | ------- | ------- |
+|9. **Help Users Recognize, Diagnose, and Recover from Errors:** | ------- | ------- | ------- |
+|10. **Help & Documentation:** | ------- | ------- | ------- |
 
 ## Severity Rating
 1. **Cosmetic Problem(s):**
 2. **Minor Usability Problem(s):**
 3. **Major Usability Problem(s):**
 
-## Heuristic Evaluation of Website #2:
+
+## Heuristic Evaluation of Website #1:
 
 ##### Initial Evaluation
 
 ##### Heuristic Evaluation
 
-| Heuristic & Description | Website Heuristic Evaluation | What to Improve |
-| ------- | ------- | ------- |
-|1. **Visibility of System Status:** | **Good:**  **Bad:** | ------- |
-|2. **Match Between System + World:** | **Good:**  **Bad:** | ------- |
-|3. **User Control & Freedom:** | **Good:**  **Bad:** | ------- |
-|4. **Consistency & Standards:** | **Good:**  **Bad:** | ------- |
-|5. **Recognition Rather Than Recall:** | **Good:**  **Bad:** | ------- |
-|6. **Error Prevention:** | **Good:**  **Bad:** | ------- |
-|7. **Flexbility and Efficiency of Use:** | **Good:**  **Bad:** | ------- |
-|8. **Aesthetic & Minimalistic Design:** | **Good:**  **Bad:** | ------- |
-|9. **Help Users Recognize, Diagnose, and Recover from Errors:** | **Good:**  **Bad:** | ------- |
-|10. **Help & Documentation:** | **Good:**  **Bad:** | ------- |
+| Heuristic & Description | Good Evaluation | Bad Evaluation | What to Improve |
+| --- | ------- | ----- | ------- |
+|1. **Visibility of System Status:** | ------- | ------- | ------- |
+|2. **Match Between System + World:** | ------- | ------- | ------- |
+|3. **User Control & Freedom:** | ------- | ------- | ------- |
+|4. **Consistency & Standards:** | ------- | ------- | ------- |
+|5. **Recognition Rather Than Recall:** | ------- | ------- | ------- |
+|6. **Error Prevention:** | ------- | ------- | ------- |
+|7. **Flexbility and Efficiency of Use:** | ------- | ------- | ------- |
+|8. **Aesthetic & Minimalistic Design:** | ------- | ------- | ------- |
+|9. **Help Users Recognize, Diagnose, and Recover from Errors:** | ------- | ------- | ------- |
+|10. **Help & Documentation:** | ------- | ------- | ------- |
 
 ## Severity Rating
 1. **Cosmetic Problem(s):**
 2. **Minor Usability Problem(s):**
 3. **Major Usability Problem(s):**
-
-
-
-
-
-
