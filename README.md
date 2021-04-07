@@ -38,9 +38,9 @@ Omegle is a free video chat website that allows people to socialize and connect 
 |10. **Help & Documentation:** Provide documentation to help users understand how to complete their tasks. | None. There is no webpage that helps users understand how to navigate the interface. | There are no indications that users can go to when they need help. | Add a "Contact Us" button, a "FAQ/Q&A" section in the navigation bar, or a simple "Help" button somewhere on the homepage. |
 
 ## Severity Rating
-1. **Cosmetic Problem(s):** 
-2. **Minor Usability Problem(s):**
-3. **Major Usability Problem(s):**
+1. **Cosmetic Problem(s):** help users recognize, diagnose, and recover from errors, flexbility and efficiency of use
+2. **Minor Usability Problem(s):** User control and freedom, error prevention, recognition rather than recall
+3. **Major Usability Problem(s):** aesthetic and minimalistic design, user control and freedom, match between system and real world, visibility of system status, help and documentation
 
 
 ## Heuristic Evaluation of Website #2: [AmeriCorps](https://americorps.gov/)
@@ -65,6 +65,6 @@ AmeriCorps is a federal agency that brings elders together to directly serving n
 |10. **Help & Documentation:** Provide documentation to help users understand how to complete their tasks. | In  the nevigation bar, there is a "contact" tab clearly there for users to click on. There is also an option to look at FAQs under the "about" tab. | None. There are clear directions and opportunities for the user to look for help. | It might be better to make the FAQ more obviously visual, but it isn't the biggest issue on the website overall. |
 
 ## Severity Rating
-1. **Cosmetic Problem(s):**
-2. **Minor Usability Problem(s):**
-3. **Major Usability Problem(s):**
+1. **Cosmetic Problem(s):** Visibility of system status
+2. **Minor Usability Problem(s):** Consistency and standards, aesthetic and minimalist design
+3. **Major Usability Problem(s):** Flexbility and efficiency of use
