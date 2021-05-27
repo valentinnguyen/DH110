@@ -18,7 +18,7 @@ The table below indicates a rating scale from 1 to 3 to represent the severity o
 
 ## Heuristic Evaluation of Website #1: [Omegle](https://www.omegle.com/)
 
-O<img width="1680" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
+<img width="1680" alt="Omegle Homepage" src="https://user-images.githubusercontent.com/81778205/113912737-5578d880-9790-11eb-8510-a58beedb8e87.png">
 
 ##### Initial Evaluation
 
